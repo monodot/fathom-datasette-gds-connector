@@ -1,0 +1,12 @@
+{
+  "dataStudio": {
+    "name": "Fathom Datasette Connector",
+    "logoUrl": "https://avatars.githubusercontent.com/u/1423165?s=460&u=36c9c87742f67e316a91a07083b724d508943b29&v=4",
+    "company": "Tom Donohue",
+    "companyUrl": "https://github.com/monodot",
+    "addonUrl": "https://github.com/monodot/fathom-datasette-gds-connector",
+    "supportUrl": "https://github.com/monodot/fathom-datasette-gds-connector/issues",
+    "description": "Use self-hosted Fathom Analytics web stats data, when served from a Datasette instance",
+    "sources": ["fathom", "datasette"]
+  }
+}
