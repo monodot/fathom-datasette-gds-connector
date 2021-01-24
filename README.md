@@ -5,3 +5,6 @@ A connector for Google Data Studio which can fetch data from a Datasette instanc
 **Warning - this is in no way production-ready software. Use at your own risk!**
 
 
+## Licence
+
+GNU GPL v3.
